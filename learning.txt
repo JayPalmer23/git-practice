@@ -1,0 +1,3 @@
+In todays leson, im learning about the working Directory, Staging Area, and the Repository.
+The Directory allows you to edit files, the git add moves to the staging area, and the git commit is stored in the Repository.
+Overall, this helpful so we can see who made the changes and when they were made.
