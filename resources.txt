@@ -1,0 +1,3 @@
+git config -global user.name and user.email- I included this because this is the source to figuring out who made changes and is important throughout development.
+GitHub.com - This is where we will be pushing our files to and how others can view them.
+git restore- I included this because this allows you to restore your files and is a useful tool.
