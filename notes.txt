@@ -1,0 +1,4 @@
+In todays lesson I learn the importance of pushing, github, git, and more.
+Git allows you to see your history, make commits, see who made changes and when they were made, and many other things!
+With github, that is the place many of your files be pushed to. it allows others to see your coding, keep work safe, and work with others.
+Futhermore, these thing will be important proffesionally. 
